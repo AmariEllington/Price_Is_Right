@@ -45,7 +45,7 @@ GEM
     rack-protection (2.0.5)
       rack
     rainbow (3.0.0)
-    rake (12.3.2)
+    rake (12.3.3)
     require_all (2.0.0)
     sinatra (2.0.5)
       mustermann (~> 1.0)
